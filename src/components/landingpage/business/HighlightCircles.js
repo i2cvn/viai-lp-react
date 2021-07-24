@@ -4,7 +4,7 @@ import "./HighlightCircles.scss";
 
 export function HighlightCircles({}) {
   return (
-    <div className="d-sm-none">
+    <div className="d-sm-none d-none d-md-block d-lg-block">
       <Row>
         <Col />
         <Col lg={3}>

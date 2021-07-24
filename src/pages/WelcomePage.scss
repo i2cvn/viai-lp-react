@@ -10,12 +10,12 @@
 .jumbotron.primary {
   min-height: 700px;
   height: 100vh;
-  background-image: url("/images/background/background-003.jpg");
+  background-image: url("./images/background/background-003.jpg");
   background-size: cover;
 }
 .jumbotron.secondary {
   background-color: rgb(65, 140, 225);
-  background-image: url("/images/background/background-002.jpg");
+  background-image: url("./images/background/background-002.jpg");
   background-size: 33.33%;
   background-blend-mode: soft-light;
 }
