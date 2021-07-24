@@ -1,0 +1,16 @@
+
+.navbar.navbar-dark {
+  background-color: rgb(58, 131, 199) !important;
+  color: white;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.2);
+}
+.navbar.navbar-dark a {
+  color: white;
+  text-decoration: none;
+}
+.navbar.navbar-dark .dropdown-menu {
+  background-color: rgb(58, 131, 199) !important;
+}
+.navbar.navbar-dark .dropdown-menu .dropdown-item:hover {
+  background-color: rgb(37, 98, 155) !important;
+}

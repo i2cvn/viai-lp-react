@@ -1,0 +1,14 @@
+.scrollbg {
+  background-position: 0% 0%;
+  animation: scrollbg 5s infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes scrollbg {
+  100% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 0% 500px;
+  }
+}
